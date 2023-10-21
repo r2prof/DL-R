@@ -1,2 +1,4 @@
-# DL-R
-Deep Learning with R
+# Deep Learning with R
+## SECOND EDITION
+### FRANÇOIS CHOLLET, TOMASZ KALINOWSKI, AND J.J. ALLAIRE
+#### Publisher: MANNING, SHELTER ISLAND
